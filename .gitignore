@@ -1,0 +1,12 @@
+target/
+build/
+.idea/
+*.iml
+.mvn/
+out/
+*.war
+*.class
+.DS_Store
+
+# 本地离线依赖 jar（依赖统一由 pom.xml 管理，不入库）
+lib/
